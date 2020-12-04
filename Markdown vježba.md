@@ -1,4 +1,4 @@
-# markdown
+# **Markdown vježba**
 Ovo je dokument :memo: koji prezentira moj `C++` kod :smiley:
 ## **Program**
 ```cpp
@@ -31,5 +31,5 @@ Todo lista za nadopunu programa:
 - [ ] Ispisati sumu znamenki broja
 
 <br/>
-[Povratak na vrh](#markdown)
+[Povratak na vrh](#markdown-vježba)
 
