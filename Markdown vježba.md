@@ -31,5 +31,5 @@ Todo lista za nadopunu programa:
 - [ ] Ispisati sumu znamenki broja
 
 <br/>
-[Povratak na vrh](#Markdownvježba)
+[Povratak na vrh](#Markdown-vježba)
 
