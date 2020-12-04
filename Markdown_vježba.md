@@ -1,6 +1,6 @@
-# **Markdown vježba**
+# Markdown vježba
 Ovo je dokument :memo: koji prezentira moj `C++` kod :smiley:
-## **Program**
+## Program
 ```cpp
 #include <iostream>
 using namespace std;
@@ -15,7 +15,7 @@ int main() {
     return 0;
 }
 ```
-### **Pokretanje programa**
+### Pokretanje programa
 - Preuzmite [DevCpp](https://sourceforge.net/projects/orwelldevcpp/)
 - Kreirajte novu datoteku i kopirajte kod unutra
 - Prevedite
@@ -23,7 +23,7 @@ int main() {
 
 <br/>
 
-### **TODO**
+### TODO
 Todo lista za nadopunu programa:
 - [x] Ispisati poruku za unos broja
 - [x] Omogućiti unos broja
